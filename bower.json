@@ -1,12 +1,15 @@
 {
-  "name": "stellar-sdk",
-  "homepage": "https://github.com/stellar/bower-js-stellar-sdk",
+  "name": "kin-sdk",
+  "homepage": "https://github.com/kinecosystem/bower-js-kin-sdk",
   "authors": [
-    "Stellar Development Foundation"
+    "Kin Foundation"
   ],
-  "description": "Main Stellar client library for the Javascript language",
-  "main": "./stellar-sdk.min.js",
+  "description": "Main Kin client library for the Javascript language",
+  "main": "./kin-sdk.min.js",
   "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "kin",
     "stellar"
   ],
   "license": "Apache 2.0"

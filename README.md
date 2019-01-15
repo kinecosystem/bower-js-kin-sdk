@@ -1,3 +1,3 @@
-# js-stellar-sdk for Bower
+# js-kin-sdk for Bower
 
-Packaged version of [js-stellar-sdk](https://github.com/stellar/js-stellar-sdk) for front-end development.
+Packaged version of [js-kin-sdk](https://github.com/kinecosystem/js-kin-sdk) for front-end development.
